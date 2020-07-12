@@ -9,4 +9,5 @@ def key_for_min_value(name_hash)
     if value < lowest_value || lowest_value = nil#if value is closest to lowest_value
     #return key asso with that value
   end
+  end
 end
